@@ -49,5 +49,4 @@
 
 13. Код предлагается портировать из проектов MKlon2 и MDrv2 самостоятельно.
 
-14. И, наконец, видео без звука и титров [95M](https://github.com/olmoro/MKlon1/blob/main/MKlon/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE/MKlon1.mp4).  [95M](https://github.com/olmoro/MKlon1/blob/main/MKlon/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE/MKlon1.mp4?raw=true)
-
+14. И, наконец, видео без звука и титров [95M скачать](https://github.com/olmoro/MKlon1/blob/main/MKlon/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE/MKlon1.mp4?raw=true)
