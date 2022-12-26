@@ -16,7 +16,7 @@
 ### <p align="center">Особенности реализации блока управления.
 
 1. Модульность
-  - Модуль [ESP32-DevKitC V4 38pin](https://aliexpress.ru/item/4000090521976.html?sku_id=12000029209753874&spm=a2g2w.productlist.search_results.11.73194aa62fyZl2). Можно, конечно, ограничиться другими версиями ESP32-DevKit с уже распаянным ESP-WROOM-32D, но перспективнее будет запаять ESP32 с 16МБ памяти самостоятельно вместо обычных 4МБ.
+  - Модуль [ESP32-DevKitC V4 38pin](https://aliexpress.ru/item/4000090521976.html?sku_id=12000029209753874&spm=a2g2w.productlist.search_results.11.73194aa62fyZl2). Можно, конечно, ограничиться другими версиями ESP32-DevKit с уже распаяным ESP-WROOM-32D, но перспективнее будет запаять ESP32 с 16МБ памяти самостоятельно вместо обычных 4МБ.
   - Модуль [SAMD21 M0-Mini](https://aliexpress.ru/item/4000169610268.html?sku_id=10000014439572098&spm=a2g2w.productlist.search_results.0.3e1d4aa6X9e9wa). 
   - [Модуль прецизионных часов DS3231 IIC](https://aliexpress.ru/item/32822420722.html?sku_id=10000000337849443&spm=a2g2w.productlist.search_results.0.282f4aa6NF9AEI). Опциональная позиция.
   - [Понижающий модуль LM2596](https://aliexpress.ru/item/32464248769.html?sku_id=66628643348&spm=a2g2w.productlist.search_results.0.24134aa6Yv9n3p).
