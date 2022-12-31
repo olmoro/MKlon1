@@ -2,7 +2,7 @@
 # <p align="center">Вариант ЗУ с блоком управления на ESP32
 ## <p align="center">Модульное зарядное устройство на ESP-WROOM-32D
 ## <p align="center">проект Arduino.
-#### <p align="right">редакция от 27 декабря 2022 года
+#### <p align="right">редакция от 31 декабря 2022 года
 
 ![](https://github.com/olmoro/MKlon1/blob/main/MKlon/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/MKlon1full.png?raw=true)
 
